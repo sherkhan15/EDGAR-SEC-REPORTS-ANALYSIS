@@ -18,7 +18,7 @@ Risk Factors
 
 B. Different parts of text analysis were performed which included -
 
-**Sentiment Analysis
+**Sentiment Analysis**
 
 Analysis of Readability
 
@@ -26,7 +26,7 @@ complex word count
 
 word count
 
-*Sentiment Analysi*
+*Sentiment Analysis* :
 Sentiment Analysis was performed using lexical based approach.
 
 *Positive Score*: This score is calculated by assigning the value of +1 for each word if found in the Positive Dictionary and then adding up all the values.
